@@ -12,3 +12,6 @@ venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Personalized Files
+libraries_installed.txt
