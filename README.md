@@ -1,4 +1,4 @@
-# Curso de Aprendizaje Profundo 2022-1, LCD - UNAM
+# Curso de Aprendizaje Profundo 2022-1, [LCD](https://cienciadatos.iimas.unam.mx/) - [UNAM](https://www.unam.mx/)
 
 El contenido del repositorio contiene las siguientes carpetas:
 
