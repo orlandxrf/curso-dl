@@ -23,6 +23,6 @@ Se puede elegir cualquiera de las dos opciones
 ## Bibliografía del curso
 * Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). Dive into deep learning. arXiv preprint arXiv:2106.11342. URL: [Dive into deep learning](https://d2l.ai/) 
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press. URL: [Deep Learning](https://www.deeplearningbook.org/)
-* Murphy, K. P. (2022). Probabilistic Machine Learning: An introduction. MIT Press.
+* Murphy, K. P. (2022). Probabilistic Machine Learning: An introduction. MIT Press. URL: [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html)
 * Ng, A. (2019). Machine learning yearning: Technical strategy for AI engineers in the era of deep learning. Retrieved online at [https://www.mlyearning.org](https://www.mlyearning.org).
 * Chollet, F. (2018). Deep learning with Python. Manning Publications Co.
