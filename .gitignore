@@ -1,0 +1,22 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# visual studio
+.vscode
+
+# Personalized Files
+libraries_installed.txt
+pruebas/
+data/
