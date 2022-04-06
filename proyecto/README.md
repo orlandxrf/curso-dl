@@ -50,7 +50,7 @@ Describan los datos que ha recopilado y limpiado. Deben ser claros y específico
 describir lo que han hecho, para que un compañero de clase pueda reproducir su trabajo.
 Muestren algunas estadísticas y ejemplos de sus datos.
 
-## Arquitectura propuesta (30 puntos)
+## Arquitectura propuesta (20 puntos)
 
 Una descripción de la arquitectura del modelo de red neuronal final. No describan todos los
 modelos intermedios que probaron. En su lugar, presenten el modelo (o modelos) cuyos
