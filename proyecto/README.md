@@ -83,4 +83,17 @@ Listar los libros, papers, urls, software que mencionan en el reporte. El format
 [APA](https://apastyle.apa.org/style-grammar-guidelines/references/examples) o alguno de los utilizados por las templates de las plantillas de Latex mencionados
 arriba.
 
+# Notas finales
+El reporte y la presentación junto con el notebook del proyecto deberá ser enviado por correo electrónico. El notebook puede ser compartido o enviado como archivo adjunto. La presentación y el reporte deberán estar en formato PDF.
+
+80% Proyecto<br>
+20% Presentación<br>
+
+:calendar: **Fecha de presentación**: 31 de mayo, 2 y 7 de junio 2022<br>
+:calendar: **Fecha de entrega para el proyecto**: 9 de junio de 2022<br>
+
+:new: **Implementación del proyecto**
+
+> Se acordó que el modelo desarrollado en el proyecto será implementado en alguna aplicación. El cuál debe ser presentado el día de la presentación del proyecto.
+
 
