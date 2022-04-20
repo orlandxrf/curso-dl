@@ -96,4 +96,26 @@ El reporte y la presentación junto con el notebook del proyecto deberá ser env
 
 > Se acordó que el modelo desarrollado en el proyecto será implementado en alguna aplicación. El cuál debe ser presentado el día de la presentación del proyecto.
 
+# :pushpin: Equipos
+Al momento estos son los integrantes de cada equipo
 
+- **Equipo 1**. Epidemiological semaphore prediction
+    + Joel Sebastián
+    + Néstor Iván
+    + Jorge Alejandro
+    > faltan integrantes en este equipo
+- **Equipo 2**. Deep Learning analysis for common pigmented skin lesions classification problem.
+    + José Antonio
+    + Adolfo Patricio
+    + Rodolfo
+    + Antonio Avilix
+    + Hugo Carlos
+- **Equipo 3**. Predicción del comportamiento del número de contagios de COVID 19.
+    + Alfonso
+    + Carlos
+    + Guillermo Oswaldo
+    + Raúl Isaid
+    + Artemio Santiago
+    + Ingrid Pamela
+- **Equipo 4**
+    > faltan integrantes de este equipo y tema de proyecto
