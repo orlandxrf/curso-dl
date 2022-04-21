@@ -117,5 +117,10 @@ Al momento estos son los integrantes de cada equipo
     + Raúl Isaid
     + Artemio Santiago
     + Ingrid Pamela
-- **Equipo 4**
-    > faltan integrantes de este equipo y tema de proyecto
+- **Equipo 4** Generación de música usando redes recurrentes.
+    + Luis Fernando
+    + Benito Vicente
+    + Juan Pablo
+    + José David
+    + Luis Alfonso
+    + José Marcos
