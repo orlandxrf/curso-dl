@@ -105,7 +105,6 @@ Al momento estos son los integrantes de cada equipo
     + Martín Jesús
     + Néstor Iván
     + Jorge Alejandro
-    > faltan integrantes en este equipo
 - **Equipo 2**. Deep Learning analysis for common pigmented skin lesions classification problem.
     + José Antonio
     + Adolfo Patricio
