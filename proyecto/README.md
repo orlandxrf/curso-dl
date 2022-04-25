@@ -101,6 +101,8 @@ Al momento estos son los integrantes de cada equipo
 
 - **Equipo 1**. Epidemiological semaphore prediction
     + Joel Sebastián
+    + Alan
+    + Martín Jesús
     + Néstor Iván
     + Jorge Alejandro
     > faltan integrantes en este equipo
