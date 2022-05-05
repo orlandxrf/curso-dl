@@ -125,3 +125,17 @@ Al momento estos son los integrantes de cada equipo
     + José David
     + Luis Alfonso
     + José Marcos
+  
+  ---
+  
+## Exposiciones
+
+El día 31 de mayo de 2022 en horario de clase y 2 de junio.
+
+
+1.  Equipo 4
+2.  Equipo 1
+3.  Equipo 2
+4.  Equipo 3
+  
+    
