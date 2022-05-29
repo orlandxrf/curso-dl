@@ -89,7 +89,7 @@ El reporte y la presentación junto con el notebook del proyecto deberá ser env
 80% Proyecto<br>
 20% Presentación<br>
 
-:calendar: **Fecha de presentación**: 31 de mayo, 2 y 7 de junio 2022<br>
+:calendar: **Fechas tentativas para la presentación**: 31 de mayo, 2, 7 y 9 de junio de 2022<br>
 :calendar: **Fecha de entrega para el proyecto**: 9 de junio de 2022<br>
 
 :new: **Implementación del proyecto**
@@ -130,7 +130,7 @@ Al momento estos son los integrantes de cada equipo
   
 ## Exposiciones
 
-El día 7 y 9 de junio en horario de clase.
+El día 7 y 9 de junio de 2022 en horario de clase.
 
 1.  Equipo 4
 2.  Equipo 1
