@@ -130,8 +130,7 @@ Al momento estos son los integrantes de cada equipo
   
 ## Exposiciones
 
-El día 31 de mayo de 2022 en horario de clase y 2 de junio.
-
+El día 7 y 9 de junio en horario de clase.
 
 1.  Equipo 4
 2.  Equipo 1
