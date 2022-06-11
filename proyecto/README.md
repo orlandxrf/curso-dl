@@ -105,12 +105,18 @@ Al momento estos son los integrantes de cada equipo
     + Martín Jesús
     + Néstor Iván
     + Jorge Alejandro
+    <br/>
+    
+    > [:hugs: bert-semaphore-prediction](https://huggingface.co/bondi)
 - **Equipo 2**. Deep Learning analysis for common pigmented skin lesions classification problem.
     + José Antonio
     + Adolfo Patricio
     + Rodolfo
     + Antonio Avilix
     + Hugo Carlos
+    <br/>
+    
+    > [:octocat: Repositorio](https://github.com/patoba/skin_lesions_classification)
 - **Equipo 3**. Predicción del comportamiento del número de contagios de COVID 19.
     + Alfonso
     + Carlos
@@ -118,7 +124,11 @@ Al momento estos son los integrantes de cada equipo
     + Raúl Isaid
     + Artemio Santiago
     + Ingrid Pamela
-- **Equipo 4** Generación de música usando redes recurrentes.
+    <br/>
+
+    > [:earth_americas: Demo](https://share.streamlit.io/artemiopadilla/machinelearningandcovid/main/demo.py)<br/>
+    > [:octocat: Repositorio](https://github.com/ArtemioPadilla/MachineLearningAndCOVID)
+- **Equipo 4** Optimización de portafolio a través de Deep Learning
     + Luis Fernando
     + Benito Vicente
     + Juan Pablo
